@@ -1,14 +1,15 @@
 # atividade-github
 
 
-GIT
-jul 21, 2023
+<h1>GIT</h1>
+
+<p>jul 21, 2023</p>
 
 Ariane G.
 
 7min de leitura
 
-GIT Tutorial Para Iniciantes
+<head> GIT Tutorial Para Iniciantes
 GIT Tutorial Para Iniciantes
 O objetivo desse GIT tutorial é apresentar tudo o que você precisa para começar a usá-lo.
 
@@ -60,3 +61,5 @@ No GIT, todas as operações são atômicas. Isso significa que uma ação pode 
 No GIT, tudo é armazenado dentro da pasta .git. Isso não é o mesmo em outros VCS como SVN e CVS onde os metadadados de arquivos são armazenados em pastas ocultas (por exemplo, .cvs, .svn, etc.)
 GIT usa um modelo de dados que ajuda a garantir a integridade criptográfica de qualquer coisa presente dentro de um repositório. Cada vez que um arquivo é adicionado ou um commit é feito, suas somas de verificação são geradas. Da mesma forma, eles são recuperados através de suas somas de verificação também.
 Outra característica presente no GIT é sua área de teste ou índice. Na área de preparação, os desenvolvedores podem formatar commits e receber feedback ​​antes de aplicá-los.
+
+</head> 
